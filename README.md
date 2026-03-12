@@ -13,6 +13,6 @@ Ultra Farmer is a mobile application designed to help farmers manage livestock r
 - Flutter
 - Dart
 - Android Studio
-- 
+
 ## Author
 Andile Madondo
